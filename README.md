@@ -20,6 +20,8 @@ Project Organization
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
     │                         generated with `pip freeze > requirements.txt`
+    ├── environment.yml    <- recreate the conda environment, e.g.
+    │                         generated with `conda env create -f environment.yml`
 
 
 --------
